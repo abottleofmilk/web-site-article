@@ -1,9 +1,9 @@
-title: 发烧的客体
+title: 发烧的客体's Blog
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
-language: en
+author: 发烧的客体
+language: zh-CN
 timezone: ''
 url: 'https://abottleofmilk.github.io/web-site-article'
 permalink: ':year/:month/:day/:title/'
@@ -59,7 +59,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: icarus
+theme: next
 deploy:
   type: git
   repo: 'https://github.com/abottleofmilk/web-site-article'

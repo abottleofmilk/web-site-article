@@ -1,0 +1,63 @@
+minify: true
+cache:
+  enable: true
+scheme: Gemini
+darkmode: true
+creative_commons:
+  # Available values: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | cc-zero
+  license: by-nc-sa
+  # Available values: big | small
+  size: small
+  sidebar: true
+  post: true
+  language: deed.zh
+menu:
+  home: / 
+  archives: /archives/index.html 
+  tags: /tags/index.html 
+  categories: /categories/index.html 
+  about: /about
+  工作: /work
+  #schedule: /schedule/ || fa fa-calendar
+  #sitemap: /sitemap.xml || fa fa-sitemap
+  # commonweal: /404
+# index_with_subtitle: true
+symbols_count_time: #统计字数
+  separated_meta: true
+reading_progress: # 阅读进度
+  enable: true
+  # Available values: left | right
+  start_at: left
+  # Available values: top | bottom
+  position: top
+  reversed: false
+  color: "#37c6c0"
+  height: 2px
+local_search: # 本地搜索
+  enable: true
+  # If auto, trigger search by changing input.
+  # If manual, trigger search by pressing enter key or search button.
+  trigger: auto
+  # Show top n results per article, show all results by setting to -1
+  top_n_per_article: 1
+  # Unescape html strings to the readable one.
+  unescape: false
+  # Preload the search data when the page loads.
+  preload: false
+# Math Formulas Render Support
+math: # 数学公式
+
+  # Default (false) will load mathjax / katex script on demand.
+  # That is it only render those page which has `mathjax: true` in front-matter.
+  # If you set it to true, it will load mathjax / katex script EVERY PAGE.
+  every_page: false
+
+  mathjax:
+    enable: true
+    # Available values: none | ams | all
+    tags: none
+
+  katex:
+    enable: false
+    # See: https://github.com/KaTeX/KaTeX/tree/master/contrib/copy-tex
+    copy_tex: false

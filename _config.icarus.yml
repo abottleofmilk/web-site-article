@@ -1,8 +1,8 @@
 version: 5.1.0
 variant: default
-logo: /img/logo.svg
+logo: /assets/images/favicon.svg
 head:
-    favicon: /img/favicon.svg
+    favicon: /assets/images/favicon.svg
     manifest:
         name: 
         short_name: 
@@ -42,16 +42,16 @@ head:
     rss: 
 navbar:
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
+        主页: /
+        档案: /archives
+        类别: /categories
+        标签: /tags
+        关于: /about
         工作: /work
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://github.com/abottleofmilk
 footer:
     links:
         Creative Commons:
@@ -62,7 +62,7 @@ footer:
             url: https://creativecommons.org/licenses/by/4.0/
         Download on GitHub:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://github.com/abottleofmilk
 article:
     highlight:
         theme: atom-one-light
@@ -83,9 +83,9 @@ article:
 search:
     type: insight
     index_pages: true
-comment:
-    type: disqus
-    shortname: ''
+# comment:
+#     type: disqus
+#     shortname: ''
 donates:
     -
         type: afdian
@@ -118,26 +118,29 @@ widgets:
     -
         position: left
         type: profile
-        author: Your name
-        author_title: Your title
-        location: Your location
-        avatar: 
+        author: 发烧的客体
+        author_title: 星星之火可以燎原，等待历史的号角!!!
+        # location: Your location
+        avatar: https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/20221105234209.png
         avatar_rounded: false
         gravatar: 
-        follow_link: https://github.com/ppoffice
+        follow_link: https://github.com/abottleofmilk
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
-            Facebook:
-                icon: fab fa-facebook
-                url: https://facebook.com
-            Twitter:
-                icon: fab fa-twitter
-                url: https://twitter.com
-            Dribbble:
-                icon: fab fa-dribbble
-                url: https://dribbble.com
+                url: https://github.com/abottleofmilk
+            WeChat:
+                icon: fa-brands fa-weixin
+                url: https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/wechat.jpg
+            bilibili:
+                icon: fa-brands fa-bilibili
+                url: https://space.bilibili.com/429680143?spm_id_from=333.1007.0.0
+            QQ:
+                icon: fa-brands fa-qq
+                url: https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/20221006102212.png
+            email:
+                icon: fa-sharp fa-solid fa-envelope
+                url: https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/20221006102650.png
             RSS:
                 icon: fas fa-rss
                 url: /
@@ -151,8 +154,9 @@ widgets:
         position: left
         type: links
         links:
+            marxists: https://www.marxists.org/
             Hexo: https://hexo.io
-            Bulma: https://bulma.io
+            icarus: https://ppoffice.github.io/hexo-theme-icarus/
     -
         position: left
         type: categories
