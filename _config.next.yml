@@ -13,9 +13,9 @@ creative_commons:
   language: deed.zh
 menu:
   home: / 
-  archives: /archives/index.html 
-  tags: /tags/index.html 
-  categories: /categories/index.html 
+  archives: /archives/
+  # tags: /tags/index.html 
+  # categories: /categories/index.html 
   about: /about
   工作: /work
   #schedule: /schedule/ || fa fa-calendar
