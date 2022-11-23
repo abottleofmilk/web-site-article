@@ -5,7 +5,7 @@ keywords: null
 author: John Doe
 language: en
 timezone: ''
-url: 'https://abottleofmilk.github.io'
+url: 'https://abottleofmilk.github.io/web-site-article'
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -62,5 +62,5 @@ ignore: null
 theme: icarus
 deploy:
   type: git
-  repo: 'https://github.com/abottleofmilk/abottleofmilk.github.io'
+  repo: 'https://github.com/abottleofmilk/web-site-article'
   branch: gh-pages

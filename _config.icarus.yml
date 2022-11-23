@@ -47,6 +47,7 @@ navbar:
         Categories: /categories
         Tags: /tags
         About: /about
+        工作: /work
     links:
         Download on GitHub:
             icon: fab fa-github
