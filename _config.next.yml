@@ -14,8 +14,8 @@ creative_commons:
 menu:
   home: / 
   archives: /archives/
-  # tags: /tags/index.html 
-  # categories: /categories/index.html 
+  tags: /tags/
+  categories: /categories/
   about: /about
   工作: /work
   #schedule: /schedule/ || fa fa-calendar
