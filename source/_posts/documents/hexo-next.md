@@ -32,7 +32,13 @@ math:
 hexo new page categories
 hexo new page tags
 ```
-
+### 置顶文章
+hexo-generator-index是官方默认的博客文章排序插件，在我们安装hexo时就存在该插件了，hexo博客正常运行离不开该插件。
+```shell
+npm uninstall hexo-generator-index --save
+npm install hexo-generator-index-pin-top --save
+```
 ## 参考
 1. [hexo之next主题添加分类](https://blog.csdn.net/u011240016/article/details/79422462)
 2. [【Hexo】nexT主题使用攻略基础——添加分类、标签及关于](https://blog.csdn.net/weixin_48927364/article/details/123295436)
+3. [hexo+next文章置顶+置顶标签](https://dingxiufeng.cn/index.php/archives/59/)

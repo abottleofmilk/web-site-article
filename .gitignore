@@ -3,3 +3,4 @@ public/
 themes/
 db.json
 .deploy_git/
+package-lock.json
