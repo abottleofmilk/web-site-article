@@ -11,13 +11,18 @@ creative_commons:
   sidebar: true
   post: true
   language: deed.zh
+open_graph:
+  enable: true
+  # Add pairs each line to customize
+  options:
+    type: blog
 menu:
-  home: / 
-  archives: /archives/
-  tags: /tags/
-  categories: /categories/
-  about: /about
-  工作: /work
+  home: /  || fa fa-home
+  archives: /archives/ || fa fa-archive
+  tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
+  about: /about || fa fa-user
+  "&ensp;工作": /work || fa-sharp fa-solid fa-hammer
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404

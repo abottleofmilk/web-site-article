@@ -64,3 +64,6 @@ deploy:
   type: git
   repo: 'https://github.com/abottleofmilk/web-site-article'
   branch: gh-pages
+autoprefixer:
+  exclude:
+    - '*.min.css'

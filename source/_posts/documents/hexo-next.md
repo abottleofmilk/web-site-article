@@ -4,6 +4,7 @@ date: 2022-11-23 21:11:46
 tags:
   - hexo
   - 教程
+  - 博客
 categories:
 ---
 ## 配置文件
@@ -38,6 +39,7 @@ hexo-generator-index是官方默认的博客文章排序插件，在我们安装
 npm uninstall hexo-generator-index --save
 npm install hexo-generator-index-pin-top --save
 ```
+
 ## 参考
 1. [hexo之next主题添加分类](https://blog.csdn.net/u011240016/article/details/79422462)
 2. [【Hexo】nexT主题使用攻略基础——添加分类、标签及关于](https://blog.csdn.net/weixin_48927364/article/details/123295436)
