@@ -1,18 +1,379 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>无产阶级如何解放获取解放</title>
+    <title>无产阶级如何解放获得彻底的解放</title>
     <url>/web-site-article/2022/11/25/Politics/%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%A6%82%E4%BD%95%E8%A7%A3%E6%94%BE%E8%8E%B7%E5%8F%96%E8%A7%A3%E6%94%BE/</url>
     <content><![CDATA[<h2 id="无产阶级解放">无产阶级解放</h2>
-<h2 id="不要性别认同">不要性别认同</h2>
+<h2 id="不要停留在性别认同">不要停留在性别认同</h2>
+<h2 id="自由的深渊">自由的深渊</h2>
+<p>现代化的个人，要么超脱不了他者对他的框架，按部就班的过着别人给你设计的生活。要么不认同他者对他设定的框架，转向自己给自己设定的框架以达到满足，认为这是一种自由，是一种解放。事实真是如此嘛？第二种较第一种看似有多高明，其实也不然。这种幻想自己能从群里中"独立"实现的个人的自由都不是自由，那么真正的自由是什么呢？</p>
 ]]></content>
       <categories>
         <category>政治</category>
       </categories>
       <tags>
+        <tag>马克思主义</tag>
         <tag>政治</tag>
         <tag>无产阶级</tag>
-        <tag>马克思主义</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>意识形态的崇高客体</title>
+    <url>/web-site-article/2022/11/28/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E5%B4%87%E9%AB%98%E5%AE%A2%E4%BD%93/</url>
+    <content><![CDATA[<h2 id="征兆">征兆</h2>
+<h2 id="大他者的匮乏">大他者的匮乏</h2>
+<h2 id="主体">主体</h2>
+]]></content>
+  </entry>
+  <entry>
+    <title>自由的深渊</title>
+    <url>/web-site-article/2022/11/28/%E8%87%AA%E7%94%B1%E7%9A%84%E6%B7%B1%E6%B8%8A/</url>
+    <content><![CDATA[<h2 id="主人是什么">主人是什么？</h2>
+]]></content>
+      <categories>
+        <category>哲学</category>
+      </categories>
+      <tags>
+        <tag>哲学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英语语法</title>
+    <url>/web-site-article/2022/11/26/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<h2 id="前言">前言</h2>
+<h3 id="何为语法">何为语法</h3>
+<h2 id="名词">名词</h2>
+<h3 id="分类">分类</h3>
+<p>一般来讲，英语中的名词通常分为两大类：专有名词（proper
+noun）和普通名词（common noun）。</p>
+<p><img
+src="https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/20221126142923.png" /></p>
+<h3 id="名词短语">名词短语</h3>
+<p>英语是一种拼音文字，和其他拼音文字一样，<strong>用词尾的变化来表示单、复数</strong>。不仅如此，在名词短语的开头，还有一些符号来配合标示该名词的范围，这种符号在语言学上称为“限定词”(Determiners)。它与词尾的单复数符号互相呼应，共同
+determine 名词的范围。冠词就是限定词 (Determiners) 之中的一种。</p>
+<h3 id="所有格">所有格</h3>
+]]></content>
+      <categories>
+        <category>语言</category>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>英语</tag>
+        <tag>语法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>大话移动通信</title>
+    <url>/web-site-article/2022/11/26/%E5%A4%A7%E8%AF%9D%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/</url>
+    <content><![CDATA[
+]]></content>
+      <categories>
+        <category>通信</category>
+      </categories>
+      <tags>
+        <tag>通信</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>大话通信2</title>
+    <url>/web-site-article/2022/11/26/%E5%A4%A7%E8%AF%9D%E9%80%9A%E4%BF%A12/</url>
+    <content><![CDATA[
+]]></content>
+      <categories>
+        <category>通信</category>
+      </categories>
+      <tags>
+        <tag>通信</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Rust</title>
+    <url>/web-site-article/2022/11/26/Rust/</url>
+    <content><![CDATA[
+]]></content>
+      <categories>
+        <category>后端</category>
+        <category>Rust</category>
+      </categories>
+      <tags>
+        <tag>Rust</tag>
+        <tag>后端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>OpenCV</title>
+    <url>/web-site-article/2022/11/26/OpenCV/</url>
+    <content><![CDATA[
+]]></content>
+      <categories>
+        <category>图像处理</category>
+      </categories>
+      <tags>
+        <tag>图像处理</tag>
+        <tag>计算机视觉</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Scipy</title>
+    <url>/web-site-article/2022/11/26/Scipy/</url>
+    <content><![CDATA[
+]]></content>
+      <categories>
+        <category>数据分析</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>数据分析</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Matplotlib</title>
+    <url>/web-site-article/2022/11/26/Matplotlib/</url>
+    <content><![CDATA[<ul>
+<li>Figure：指整个图形，您可以把它理解成一张画布，它包括了所有的元素，比如标题、轴线</li>
+<li>Axes：绘制 2D 图像的实际区域，也称为轴域区，或者绘图区；</li>
+<li>Axis：指坐标系中的垂直轴与水平轴，包含轴的长度大小（图中轴长为
+7）、轴标签（指 x 轴，y轴）和刻度标签；</li>
+<li>Artist：您在画布上看到的所有元素都属于 Artist
+对象，比如文本对象（title、xlabel、ylabel）、Line2D
+对象（用于绘制2D图像）等。</li>
+</ul>
+<h2 id="axes">axes</h2>
+<h2 id="子图">子图</h2>
+<ul>
+<li>subplot()
+函数，它可以均等地划分画布，如果新建的子图与现有的子图重叠，那么重叠部分的子图将会被自动删除，因为它们不可以共享绘图区域。</li>
+<li>subplots() 既创建了一个包含子图区域的画布，又创建了一个 figure
+图形对象，而 subplot() 只是创建一个包含子图区域的画布。</li>
+<li>subplot2gird()
+函数以非等分的形式对画布进行切分，并按照绘图区域的大小来展示最终绘图结果。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>可视化</category>
+      </categories>
+      <tags>
+        <tag>可视化</tag>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Pandas</title>
+    <url>/web-site-article/2022/11/26/Pandas/</url>
+    <content><![CDATA[
+]]></content>
+      <categories>
+        <category>数据分析</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>数据分析</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Numpy</title>
+    <url>/web-site-article/2022/11/26/Numpy/</url>
+    <content><![CDATA[<h3 id="数组的创建">数组的创建</h3>
+<p><img
+src="https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/20221126124056.png" /></p>
+<h3 id="数组对象ndarray的常用属性">数组对象ndarray的常用属性</h3>
+<p><img
+src="https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/20221126124151.png" /></p>
+]]></content>
+      <categories>
+        <category>数据分析</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>数据分析</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sigil_User_Guide</title>
+    <url>/web-site-article/2022/11/25/Sigil-user-guide/</url>
+    <content><![CDATA[<h2 id="前言">前言</h2>
+<h3 id="环境">环境</h3>
+<p>操作系统版本Win11 22H2(OS内部版本 22621.819)</p>
+<p>软件版本为1.9.20</p>
+<figure>
+<img
+src="https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/image-20221125215511085.png"
+alt="image-20221125215511085" />
+<figcaption aria-hidden="true">image-20221125215511085</figcaption>
+</figure>
+<h3 id="安装">安装</h3>
+<h3 id="一些基本概念">一些基本概念</h3>
+<ul>
+<li>OPF（开放打包格式）： EPUB
+文件如何相互关联，元数据详细信息(content.opf)。</li>
+<li>OPS（开放出版结构）：描述 EPUB 文件中所有内容的关键规范。</li>
+<li>OCF（OEBPS 容器格式）：如何将文件打包成.epub文件。</li>
+</ul>
+<h2 id="基础">基础</h2>
+<h3 id="一般的操作流程">一般的操作流程</h3>
+<h3 id="编辑器">编辑器</h3>
+<ul>
+<li>如果在外部程序中编辑文件时在 Sigil
+中更改文件，则可能会丢失数据。</li>
+<li>使用外部编辑器操作完保存后，再在sigil中编辑。</li>
+</ul>
+<h3 id="自定义用户界面">自定义用户界面</h3>
+<p>要将工具栏移动到其他位置，请将光标悬停在工具栏左侧的抓取栏上。当您这样做时，将出现一个移动光标。左右移动控制大小，直接拖动移动到其他位置。</p>
+<figure>
+<img
+src="https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/image-20221125222320730.png"
+alt="image-20221125222320730" />
+<figcaption aria-hidden="true">image-20221125222320730</figcaption>
+</figure>
+<p>如果您使工具栏小于将显示所有图标的大小，则工具栏右侧将出现一个箭头。当您单击该箭头时，将出现一个子菜单，允许访问工具栏中的所有按钮。</p>
+<figure>
+<img
+src="https://cdn.staticaly.com/gh/abottleofmilk/CDN@master/img/image-20221125222247724.png"
+alt="image-20221125222247724" />
+<figcaption aria-hidden="true">image-20221125222247724</figcaption>
+</figure>
+<p>面板同样可以拖动，拖到你想放置的位置，松开鼠标即可。自定义图标可以控制其样式和大小。</p>
+<h3 id="导入文件">导入文件</h3>
+<h4 id="文本文件">文本文件</h4>
+<p>文本文件不是理想的来源，但它们仍然比某些格式更好，因为它们具有更少的不必要的HTML
+标记。如果您对其他格式有很多问题，它们可能值得使用。有时向干净的文档添加样式比尝试清理转换后的文件更快。</p>
+<h2 id="高级技巧">高级技巧</h2>
+<h3 id="插件">插件</h3>
+<p>支持 Python 插件，允许用户自定义 Sigil
+的使用方式并将其集成到自己的工作流程中，并独立于 Sigil
+添加他们需要或想要的工具。可以下载并安装这些插件以添加对 Sigil
+的扩展支持。这些插件包括
+epubcheck、Access‑Aide、KindleImport、Kindlegen、FlightCrew、ePub3‑itizer、DOCX
+Import 插件等。Sigil 嵌入了自己的 Python 解释器（在撰写本文时为
+v3.9.9，以支持基于 Python 3 的插件）。</p>
+<h3 id="自动化列表">自动化列表</h3>
+<h2 id="其他工具">其他工具</h2>
+<h3 id="可能有用的网址">可能有用的网址</h3>
+<p><a href="https://www.epubble.com/word-to-epub-tutorial/">Word to ePub
+Tutorial | ePubble</a></p>
+<p><a
+href="https://justpublishingadvice.com/how-a-copywriter-would-write-a-book-description/">Writing
+A Book Description By Thinking Like A Copywriter
+(justpublishingadvice.com)</a></p>
+<p><a href="https://www.mobileread.com/">MobileRead Forums</a></p>
+<p><a
+href="https://www.mobileread.com/forums/showthread.php?t=247431">Sigil
+Plugin Index - MobileRead Forums</a></p>
+<h3 id="可能有用的工具">可能有用的工具</h3>
+<table>
+<thead>
+<tr class="header">
+<th>名称</th>
+<th>简单描述</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Word to ePub Converter</td>
+<td>word转PDF工具 windows</td>
+</tr>
+<tr class="even">
+<td>The Document Converter</td>
+<td>word转PDF工具 apple</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="参考">参考</h2>
+<ol type="1">
+<li><a href="https://sigil-ebook.com/sigil/guide/">Sigil User
+Guide</a></li>
+<li>[Epub指南--从入门到放弃|<code>赤霓</code>编著]</li>
+<li><a
+href="https://github.com/Sigil-Ebook/Sigil/blob/master/docs/Sigil_Plugin_Framework_rev14.epub">Sigil_Plugin_Framework_rev14.epub</a></li>
+</ol>
+]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>近代哲学史-谢林</title>
+    <url>/web-site-article/2022/11/25/%E8%BF%91%E4%BB%A3%E5%93%B2%E5%AD%A6%E5%8F%B2-%E8%B0%A2%E6%9E%97/</url>
+    <content><![CDATA[<h2 id="译者前言">译者前言</h2>
+<p>谢林的后期哲学在形态上表现为“神话哲学”和“天启哲学”，而在内容实质上则是表现为“否定哲学”和“肯定哲学”。这里有必要指出，晚年谢林并不是像很多人误解的那样，以一种非此即彼的态度来对待“否定哲学”和“肯定哲学”，仿佛他的宗旨就在于贬低前者而抬高后者。因为真正说来，这两种哲学都是谢林的后期哲学体系的同等重要的组成部分，二者的区分与柏拉图的本原学说的精神完全一致，即分别代表着“<strong>走向本原的道路</strong>”和“<strong>从本原出发的道路</strong>”。从哲学思考的本性来说，“走向本原的道路”或“否定哲学”必然先行于“从本原出发的道路”或“肯定哲学”，因此前者在某种意义上乃是后者的一个导论。另一方面，为了理解把握谢林的由“否定哲学”和“肯定哲学”组成的后期哲学体系，这本身又需要一个导论，而在谢林看来，对于哲学史的回顾就是这个意义上的最好的一个导论。</p>
+<p>哲学史是最好的哲学导论——这是谢林和黑格尔的共识。而且谢林比黑格尔更早地实施了这个计划。在这部《近代哲学史》里，谢林以高屋建瓴的方式阐
+述了近代哲学从笛卡尔出发直到谢林本人的后期哲学的演进过程，其重点在于考察近代哲学的“主体”“存在”“思维”“经验”“上帝”“自由”“本原”等核心概念在各位哲学家那里的关键意义，并最终揭示出他所强调的“否定哲学”和“肯定哲学”之间的区分和联系。</p>
+<h2 id="前言">前言</h2>
+<p>基于各种理由，人们可以发现，对于早先的各种体系进行一番回顾——或至少把这种回顾当作是哲学导论自身的一个附属品——乃是一个合适的做法。科学也是时代的一个作品，并且是在一个持续的发展过程中得到理解把握。任何一个人，如果他相信自己有能力帮助科学迈出或大或小的一个步伐，那么他会很自然地想要揭示出他和之前发生的事情的关系，以便通过这个方式清楚地表明，他是在发展过程或停滞状态的哪一个阶段接手科学，并且打算帮助科学达到随后的哪一个目标。如果他表明，经过从一个层次到另一个层次的发展，那个最高目标至今仍然处于迷失的状态，那么他将会在更高的程度上激励人们参与到他的研究活动之中。通过这个方式，哲学里面的初学者虽然暂时只是获得一些历史知识，但已经接触到了哲学的对象，尤其是近几百年来那些伟大的哲学家所研究的对象。最终说来，<strong>如果人们要赏识真理和评判真理，那么他们也必须要认识到什么是谬误，就此而言，哲学史的阐述就是一种最好的和最温和的方式，向初学者指出那些应当得到纠正的谬误</strong>。再者，如果这里的工作不是仅仅涉及处理具体材料的新方法和新观点，而是涉及“哲学”这一概念自身所蕴含着的变化，那么上述所有理由的分量还会加重。在这种情况下，我们希望表明，虽然“哲学”概念自在地或原本就具有真理，但它同时也是早先各种失败尝试的一个自然而然的、历史的结果，也就是说，这个
+概念不再是一个单纯的普遍者，而恰恰是这个 时代的一个必然的结局。</p>
+<h2 id="笛卡尔">笛卡尔</h2>
+<p>尽管他曾经出于各种理由怀疑其他事物，但就他思考着
+而言，这些理由里面没有一个 能促使他去怀疑他自己
+。他说，不管我是清醒的还是在做梦，我毕竟思考着
+、存在着，即使我在一切别的事情上面都有犯错，但那个犯错的我毕竟存在着
+，eram quia
+errabam［我犯错，所以我存在］，即使我可以设想，自然的创造者无比强大，他也不可能在这件事情上面欺骗我，因为我必须存在着
+，才有可能被欺骗。</p>
+<p>我处于人们所称的“思维”这一特定的样式之下，而这个样式仅仅是存在的另一个
+样式，正如身体的存在的样式在于填充
+空间，亦即把其他身体从它所占据的那个空间那里排挤开。因此那蕴含在cogito［我思考］之内的sum［我存在］并不是意味着“我无条件地存在着”，而是仅仅意味着“我以某种方式
+存在着”，也就是说，作为思考者，在这个样式（即人们所称的“思维”）之下存在着。<strong>就此而言，Ergo
+sum［因此我存在］也不可能意味着“我以无条件的方式存在着”，而只能意味着“我以某种方式存在着”</strong>。</p>
+<p>培根和笛卡尔都反对经院哲学，都在追求一种实实在在的
+哲学。只有当涉及那个最高的
+概念的时候，双方才决定性地分道扬镳；一方面，笛卡尔希望通过一个先天的论证表明，那个概念独立于一切经验，因此也独立于他自己的
+出发点（即“我思考
+”这一直接的事实），于是他成为先天哲学或唯理—先天哲学的鼻祖，另一方面，培根无疑认为，最高者也是一种经验性的东西。</p>
+<p>“我思考”这个宣言已经预设了两个东西：1）一个在我之内进行思考的东西，比如现在正进行着怀疑的东西；2）一个反思着这个思考或怀疑的东西；只有当后者
+认识到前者与它是同一的，我才说：“我思考。”就此而言，“我思考”真正说来根本不是某种直接的东西，它只有通过一种指向我之内的思考的反思才产生出来，而我之内的思考又是独立于那个反思着它的东西而进行的，因为通常说来，我用不着告诉我自己“我在思考”这件事
+，用不着反过来思考这个思考本身，就已经在进行思考，甚至可以说，真正的思考必然是客观地独立于那个对其进行反思的主体，换言之，主体愈是不怎么介入思维，思维就愈是真实。</p>
+<p>也就是说，因为表象自身并不提供任何担保，所以笛卡尔需要一个担保人
+来保障他关于外物的表象是真的——他在这里尝试从主观走向客观，尝试一个过渡（μετάβασις）——于是他在上帝那里找到了担保人，既然如此，上帝的存在就必须首先得到证明。
+## 斯宾诺莎</p>
+<h2 id="莱布尼茨">莱布尼茨</h2>
+<h2 id="沃尔夫">沃尔夫</h2>
+<p>我曾经认为，出于各种理由，我在这里必须更加具体地阐述当时的那种形而上学。原因在于：1）真正说来，它毕竟是当时唯一发挥作用、得到公开的容忍和接受的形而上学：无论是笛卡尔还是斯宾诺莎的哲学，甚至是莱布尼茨哲学的真正思辨因素，都未曾得到学院派的接纳；2）重要的是，我们应当知道，一种完全
+主观的、亦即始终位于对象之外
+的辩证法能够做什么，就此而言，如果我们把这种形而上学当作一种更高的哲学的预习
+，在大学里面讲授它，那么这始终是一件有益的事情。尽管我们可以在根本上仅仅把它看作是一种单纯反思性的、主观理性主义的哲学，但正因如此，它同时也容许人们具有某种思想自由
+或使用知性的自由
+，而既然这个类型的哲学思考是唯一适合于广大民众并且容易被他们接受的，那么它还是能够带来许多助益。因为广大民众在进行哲学思考的时候，不是想要纠正自己的观点，而是想要让自己满足于他们偶然接受的教育；他们不希望看到这样的事情发生，即他们通过教育而建立起来的思想大厦需要一种根本上的修正和重建，于是每一个人都认为自己先天地具有一个理性，这个理性赋予他权利，去预先规定他所愿意认可或不愿意认可的东西——也就是说，广大民众的最终目的，无非就是从他们的
+立场出发，同时又不必拘泥于这个立场，仅仅通过一些合理的言论或讨论来解释哲学的那些伟大对象。</p>
+<p>学院派形而上学从一开始就纠缠于经院哲学的基本格局和烦琐辞藻，因此随着时间流逝，它越来越过渡到一种单纯反思性的哲学。在一个逐步激发出越来越多的活力的时代里，人们很快注意到了事情
+的关键之所在（即那种形而上学不是一种科学的哲学，而是一种单纯反思性的哲学），因此最终说来，每一个人都有权利（或认为自己有权利）进行单纯的反思，因为这种反思只需要一个东西，即每一个人赋予自己的那个普遍理性，但与此同时，却没有人认为，必须通过行为才能证明他确实具有那个理性。在这种情况下，学院派形而上学必然逐渐转变为一类没有形式的哲学，即一种纯粹的通俗哲学，最终陷入到一种彻底的群龙无首的局面。一个鼓吹所谓的独立思考
+的时代开始了，然而“独立思考”看起来只不过是一个重复啰唆的说法，因为不言而喻，每一个思考者都必须独立
+思考，没有谁能够代替别人去思考，正如没有谁能够代替别人去睡觉或消化食物一样。人们的看法是，借助那个普遍理性，每一个人都已经获得了完整的装备，能够对于哲学的一切对象形成一些合理的观念；人们宣称，每一个人都必须建立他自己的体系，至于一种要求具有客观有效性的哲学，充其量只适合在学校里面讲授，用来激励那些不谙世事的青年，但是生活和经验才是一切，如此等等。当然，从另一方面来看，重视经验也为哲学带来了有益的影响，因为这促进了经验心理学的产生和改造。尽管经验心理学直到如今都还缺乏一个真正的科学的
+奠基，但是它毕竟给人类精神开启了一个关于它自身的崭新领域，尤其是那个极为有趣的、介于生理因素和心理因素之间的领域。
+## 康德</p>
+<h2 id="费希特">费希特</h2>
+<h2 id="先验唯心论体系">先验唯心论体系</h2>
+<h2 id="自然哲学">自然哲学</h2>
+<h2 id="黑格尔">黑格尔</h2>
+<h2 id="谢林">谢林</h2>
+<h2 id="论哲学里面的民族对立">论哲学里面的民族对立</h2>
+<h2
+id="为维克多库桑先生哲学著作所作序">为维克多·库桑先生哲学著作所作序</h2>
+<h2 id="哲学经验论概要-1834">哲学经验论概要 1834</h2>
+<h2 id="一些总结">一些总结</h2>
+<p>笛卡尔的我思并不是无条件的存在的，</p>
+<h2 id="参考">参考</h2>
+<ol type="1">
+<li><a
+href="https://www.bilibili.com/video/BV14d4y137dy/?spm_id_from=333.788">哲学导读</a></li>
+<li><a
+href="https://book.douban.com/subject/26694273/">近代哲学史</a></li>
+</ol>
+]]></content>
+      <categories>
+        <category>哲学</category>
+      </categories>
+      <tags>
+        <tag>哲学</tag>
+        <tag>哲学史</tag>
+        <tag>发展史</tag>
       </tags>
   </entry>
   <entry>
@@ -99,7 +460,17 @@ color）图像的每个像素的颜色不是由每个基色分量的数值直接
   <entry>
     <title>黑格尔-牛津通识读本</title>
     <url>/web-site-article/2022/11/24/reading/%E9%BB%91%E6%A0%BC%E5%B0%94/</url>
-    <content><![CDATA[
+    <content><![CDATA[<h2 id="第一章-黑格尔的时代与生平">第一章 黑格尔的时代与生平</h2>
+<h2 id="第二章-有目的的历史">第二章 有目的的历史</h2>
+<h2 id="第三章-自由与共同体">第三章 自由与共同体</h2>
+<h2 id="第四章-精神的漫长历程">第四章 精神的漫长历程</h2>
+<h2 id="第五章-逻辑与辩证法">第五章 逻辑与辩证法</h2>
+<h2 id="第六章-余波">第六章 余波</h2>
+<p>黑格尔去世后，那些自视为其追随者的人分成了两个阵营。正统黑格尔派或黑格尔右派遵循其晚年风格，把他的宗教观点与基督教新教调和起来，并且接受《法哲学原理》中对普鲁士国家总体上正面的看法。这个保守的黑格尔主义学派没有产生什么重要的思想家，在柏林以半官方哲学的地位维持几年之后便迅速衰落，以致到了19世纪60年代，黑格尔哲学在德国已经完全过时。另一个阵营则非常不同，它由一群思想激进的青年人组成。他们对黑格尔的态度就像黑格尔对康德的态度。就像黑格尔一直认为康德的自在之物学说未能完成其哲学的根本含义，黑格尔的这些弟子也认为，黑格尔接受基督教、普鲁士国家和他那个时代的一般状况，也是未能完成其哲学的根本含义。这群人被称为青年黑格尔派或黑格尔左派，未来取决于他们。</p>
+<p>青年黑格尔派认为黑格尔的哲学在要求一个更美好的世界。这是一个合理组织起来的世界，一个真正自由的世界，个人与社会之间的对立将被克服。简而言之，这个世界可以反映出人类精神及其理性力量的绝对至上。在青年黑格尔派看来，这个更美好的世界并不单纯是一种幻想出来的乌托邦理想，而是黑格尔体系的历史与哲学论证的最终完成。它是一种辩证的必然性，是一个必定会出现的合题，以使他们那个世界中的各种对立因素得以调和。</p>
+<p>对于那种认为19世纪30年代的德国已经实现了黑格尔哲学承诺的想法，青年黑格尔派嗤之以鼻，他们着手实现自己的激进看法。首先他们把宗教看成对一个可以使人充分发挥潜力的社会的关键障碍。通过发展《精神现象学》“苦恼意识”一节中的线索，他们指出宗教是一种异化形式。人创造了上帝，然后又想象上帝创造了自己。人把他自身之中所有最好的东西——知识、善和力量——都赋予了他的上帝形象，然后又在他自己创造的这个形象面前顶礼膜拜，而把自己看成无知、有罪和软弱。要使人类恢复其完整力量，只需使他们认识到，人类才真正是神性的最高形态。</p>
+<p>为此，两个青年黑格尔派撰写了对19世纪宗教思想有巨大影响的著作。大卫·弗里德里希·施特劳斯写了一本卓越的《耶稣传》。通过把福音书作为历史批判的原始材料，他给后来关于历史上的耶稣的所有研究树立了典范。路德维希·费尔巴哈的《基督教的本质》则把一切传统宗教都说成人把自己的属性投射到另一个领域，遂成为发展一种宗教信仰心理学的第一次现代尝试。早在黑格尔本人的著作在德国以外还几乎不为人所知时，由玛丽安·埃文斯（她还协助翻译了施特劳斯的著作，以笔名乔治·艾略特广为人知）译成英文的这部著作已经有了广泛的世界影响。接着，青年黑格尔派越过了宗教。费尔巴哈以更为激进的方式，用黑格尔的思想来反对黑格尔。他指责黑格尔以一种神秘的方式来给出关于世界的真理。黑格尔相信精神是终极实在，所以一直把世界中的不和谐问题看成思想领域中的一个问题，因此认为哲学能够解决它。现在费尔巴哈把黑格尔颠倒过来。不能由思想推导出存在，而应由存在推导出思想。人的真正基础并不在精神，反倒是精神的真正基础在人那里。黑格尔的哲学本身是一种异化形态，因为他把实际的活生生的人的本质当成了某种外在于他们自身的东西——“精神自身”。费尔巴哈说，我们既不需要神学，也不需要哲学，而是需要一种研究现实生活中实际的人的科学。</p>
+<p>此时距离青年黑格尔派的著作使黑格尔思想的要素对世界历史产生持久影响已经为期不远了。黑格尔去世后大约六年，卡尔·马克思来到了柏林大学。很快他便结识了青年黑格尔派，并参与了当时流行的宗教批判。当费尔巴哈宣称需要超出思想领域时，马克思热情回应了这一号召。在《1844年经济学哲学手稿》中，马克思称赞了黑格尔《精神现象学》关于异化和劳动重要性的论述，然后发展出了他自己关于资本主义制度下劳动作为主要异化形式的看法。马克思指出，要使人类获得解放，就必须消除异化劳动；而要消除异化劳动，就必须废除私有财产和与之伴随的工资制度：换句话说就是建立共产主义。</p>
 ]]></content>
       <categories>
         <category>阅读</category>
@@ -162,8 +533,8 @@ color）图像的每个像素的颜色不是由每个基色分量的数值直接
         <category>马克思主义</category>
       </categories>
       <tags>
-        <tag>马克思主义</tag>
         <tag>哲学</tag>
+        <tag>马克思主义</tag>
       </tags>
   </entry>
   <entry>
@@ -636,16 +1007,21 @@ href="http://c.biancheng.net/view/1792.html">Qt教程|C语言中文网</a></li>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo new page categories</span><br><span class="line">hexo new page tags</span><br></pre></td></tr></table></figure>
 <h3 id="置顶文章">置顶文章</h3>
 <p>hexo-generator-index是官方默认的博客文章排序插件，在我们安装hexo时就存在该插件了，hexo博客正常运行离不开该插件。
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">npm uninstall hexo-generator-index --save</span><br><span class="line">npm install hexo-generator-index-pin-top --save</span><br></pre></td></tr></table></figure> ## 参考 1. <a
-href="https://blog.csdn.net/u011240016/article/details/79422462">hexo之next主题添加分类</a>
-2. <a
-href="https://blog.csdn.net/weixin_48927364/article/details/123295436">【Hexo】nexT主题使用攻略基础——添加分类、标签及关于</a>
-3. <a
-href="https://dingxiufeng.cn/index.php/archives/59/">hexo+next文章置顶+置顶标签</a></p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">npm uninstall hexo-generator-index --save</span><br><span class="line">npm install hexo-generator-index-pin-top --save</span><br></pre></td></tr></table></figure></p>
+<h2 id="参考">参考</h2>
+<ol type="1">
+<li><a
+href="https://blog.csdn.net/u011240016/article/details/79422462">hexo之next主题添加分类</a></li>
+<li><a
+href="https://blog.csdn.net/weixin_48927364/article/details/123295436">【Hexo】nexT主题使用攻略基础——添加分类、标签及关于</a></li>
+<li><a
+href="https://dingxiufeng.cn/index.php/archives/59/">hexo+next文章置顶+置顶标签</a></li>
+</ol>
 ]]></content>
       <tags>
-        <tag>hexo</tag>
         <tag>教程</tag>
+        <tag>hexo</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
@@ -663,15 +1039,6 @@ href="https://dingxiufeng.cn/index.php/archives/59/">hexo+next文章置顶+置�
         <tag>教程</tag>
         <tag>工具</tag>
         <tag>编辑器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo-plugin详解</title>
-    <url>/web-site-article/2022/11/23/documents/hexo-plugin/</url>
-    <content><![CDATA[
-]]></content>
-      <tags>
-        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -716,6 +1083,17 @@ style="text-align: center;">给hexo一个简易的可视化后台来管理文章
 ]]></content>
       <tags>
         <tag>hexo</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo-plugin详解</title>
+    <url>/web-site-article/2022/11/23/documents/hexo-plugin/</url>
+    <content><![CDATA[
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
