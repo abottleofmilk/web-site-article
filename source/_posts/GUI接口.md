@@ -3,7 +3,7 @@ title: GUI接口
 date: 2022-11-30 11:08:02
 tags:
   - GUI
-  - 随笔
+  - 文章
 categories:
 ---
 DirectX和OpenGL Vulkan、（Glide过时）
